@@ -45,7 +45,7 @@ int main(){
     enqueue(&q, 1);
     printf("%d element dequeued\n",dequeue(&q));
     printf("%d element dequeued\n",dequeue(&q));
-    // printf("%d element dequeued\n",dequeue(&q));
+    printf("%d element dequeued\n",dequeue(&q));
     enqueue(&q,45);
     enqueue(&q,45);
     enqueue(&q,45);
